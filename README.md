@@ -30,7 +30,7 @@ The dataset comes from the UCI Machine Learning repository [here](https://archiv
 # Project
 This project attempts to use the data from the source above and applies various ML classifiers and compares and contrasts them.
 
-Link to Jupyter notebook : https://github.com/1kit/
+Link to Jupyter notebook : https://github.com/1kit/module_17/blob/main/prompt_III.ipynb
 
 # Data Understanding
 The following input variables are present in the data provided
